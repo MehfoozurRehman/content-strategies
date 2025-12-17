@@ -13,7 +13,7 @@
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-slot": "^1.2.4",
     "@radix-ui/react-toggle-group": "^1.1.11",
-    "@supabase/supabase-js": "^2.87.3",
+    "@supabase/supabase-js": "^2.88.0",
     "@tailwindcss/vite": "^4.1.18",
     "axios": "^1.13.2",
     "class-variance-authority": "^0.7.1",
